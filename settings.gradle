@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ADFramework"
 include ':app'
+include ':architecture-mvp'
